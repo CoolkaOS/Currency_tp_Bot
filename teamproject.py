@@ -10,7 +10,7 @@ from telegram.ext import CommandHandler
 from telegram.ext import MessageHandler, Filters
 
 
-TOKEN = '707090914:AAFOupGmBjkNIkaZp81IEflkHuDiZgbqOWk'
+TOKEN = ''
 
 bot = telegram.Bot(token=TOKEN)
 print(bot.get_me())
